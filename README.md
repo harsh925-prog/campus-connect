@@ -1,9 +1,8 @@
 # Campus Connect - Student Collaboration Hub
 
 ## Team Members
-- [Your Name]
-- [Teammate 1] 
-- [Teammate 2]
+- Harsh Chakote
+- Nirvahita Devkate
 
 ## Project Description
 A web-based platform for student collaboration, resource sharing, and campus event management.
