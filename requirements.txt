@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-MySQLdb==1.0.1
+Flask-Login==0.6.3
+Werkzeug==2.3.7
+mysql-connector-python==8.1.0
+bcrypt==4.0.1
+pytest==7.4.2
+selenium==4.12.0
